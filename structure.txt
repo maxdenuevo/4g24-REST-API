@@ -1,0 +1,15 @@
+.
+├── Pipfile
+├── Pipfile.lock
+├── README.md
+├── app.py
+├── config.py
+├── instance
+│   └── starwars_blog.db
+├── models.py
+├── requirements.txt
+├── routes.py
+├── structure.txt
+└── vercel.json
+
+2 directories, 11 files
